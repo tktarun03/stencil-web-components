@@ -1,0 +1,12 @@
+{
+    "name": "stencil-web-components",
+    "version": "1.0.0",
+    "dependencies": {},
+    "devDependencies": {
+        "@stencil/core": "^2.9.0"
+    },
+    "scripts": {
+        "build": "stencil build",
+        "start": "stencil build --dev --watch --serve"
+    }
+}
